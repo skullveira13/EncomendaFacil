@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_id": "encomendafacil-b9b97",
+    "project_number": "257035914283",
+    "name": "EncomendaFacil"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257035914283:android:70b3bab124dfd8c0",
+        "client_id": "android:com.eccfacil.gcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.eccfacil.gcm",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257035914283:android:4042bc7329f59562",
+        "client_id": "android:com.eccfacil.encomendafacil",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.eccfacil.encomendafacil",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

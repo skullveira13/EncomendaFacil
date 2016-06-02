@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.CadastroUsuario"/>
+      <point      
+        x = "2054"      
+        y = "25"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.Perfil"/>
+      <point      
+        x = "54"      
+        y = "1516"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.HistPacote"/>
+      <point      
+        x = "3047"      
+        y = "1498"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.MainActivity"/>
+      <point      
+        x = "1021"      
+        y = "1505"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.LoginActivity"/>
+      <point      
+        x = "996"      
+        y = "47"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.SettingsActivity"/>
+      <point      
+        x = "3032"      
+        y = "25"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.eccfacil.encomendafacil.MainActivity"/>
+      <point      
+        x = "1768"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.eccfacil.encomendafacil.CadastroPacotes"/>
+      <point      
+        x = "2047"      
+        y = "1494"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

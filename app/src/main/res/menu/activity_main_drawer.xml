@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_atualizarEncomenda"
+            android:icon="@android:drawable/stat_notify_sync_noanim"
+            android:title="Atualizar Listagem" />
+        <item
+            android:id="@+id/nav_cadastrarEncomenda"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="Nova Encomenda" />
+
+    </group>
+
+    <item android:title="Controle">
+        <menu>
+            <item
+                android:id="@+id/nav_editarPerfil"
+                android:icon="@android:drawable/ic_lock_idle_lock"
+                android:title="Perfil" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@android:drawable/ic_menu_close_clear_cancel"
+                android:title="Log out" />
+        </menu>
+    </item>
+
+</menu>
